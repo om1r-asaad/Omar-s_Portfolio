@@ -79,8 +79,8 @@ p {
 
 
 .pro {
-  height: 350px;
-  width: 350px;
+  height: 150px;
+  width: 150px;
   display: block;
   flex-direction: column;
   justify-content: center;
