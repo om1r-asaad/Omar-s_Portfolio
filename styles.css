@@ -2,14 +2,21 @@
 
 h1 {
   text-align: center;
-  font-family: Didot, serif;
+  font-family: Georgia, serif;
   font-weight: 600; 
   font-variant: normal;
   text-size: 30px;
 }
 
 
-p 
+p {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 200;
+  font-variant: normal;
+  text-size: 16px;
+}
+  
 
 
 
