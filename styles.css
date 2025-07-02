@@ -5,7 +5,8 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #fad3cf;
-  
+  height: 100%;
+  margin: 0;
 }
   
   
