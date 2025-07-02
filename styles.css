@@ -38,6 +38,7 @@ h2 {
   font-weight: 200;
   font-variant: normal;
   text-size: 24px;
+  font-color: #fad3cf;
 }
 
 
@@ -47,6 +48,7 @@ h3 {
   font-weight: 200;
   font-variant: normal;
   text-size: 22px; 
+  font-color: #fad3cf;
 }
 
 
@@ -61,6 +63,7 @@ p {
   font-weight: 200;
   font-variant: normal;
   text-size: 18px;
+  font-color: #fad3cf;
 }
   
 
@@ -69,7 +72,6 @@ p {
   width: 150px;
   overflow: hidden;
   border-radius: 50%;
-  font-color: #fad3cf;
 }
   
 
