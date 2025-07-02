@@ -1,4 +1,23 @@
 
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 
 h1 {
   text-align: center;
@@ -18,7 +37,10 @@ p {
 }
   
 
-
+.profile-img {
+  
+  border-radius: 50%;
+  
 
 
 
