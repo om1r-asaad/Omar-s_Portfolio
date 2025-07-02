@@ -4,6 +4,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #060608;
+  
 }
   
   
@@ -25,6 +27,7 @@ h1 {
   font-weight: 600; 
   font-variant: normal;
   text-size: 30px;
+  font-color: #fad3cf;
 }
 
 
@@ -42,6 +45,7 @@ p {
   width: 150px;
   overflow: hidden;
   border-radius: 50%;
+  font-color: #fad3cf;
 }
   
 
