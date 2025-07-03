@@ -81,7 +81,7 @@ p {
 .pro-img {
   height: 150px;
   width: 150px;
-    display: block;
-  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 50%;
 }
 
